@@ -1,1 +1,1 @@
-# Appy-Fizz
+# appy-fizz
